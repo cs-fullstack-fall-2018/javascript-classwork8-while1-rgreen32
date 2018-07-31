@@ -1,8 +1,8 @@
 # JavaScript_Day1_While1
 ### Create a new file for each exercise
 
-#### Exercise 8:
-Create a program that asks a user “How awesome is Kenn and Kevin”. Create a loop that will not quit until they enter “very awesome”.
+#### Exercise 13:
+Asks the user ```Enter a word. Press 'q' to quit.``` Create a loop that will not quit until they enter 'q'.
 
-#### Exercise 9:
-Create a program that has a hardcoded password. Create a while loop that will continually ask the user to enter the correct password until it’s correct. Once it’s correct print “THAT’S CORRECT!!!”
+#### Exercise 14:
+Create a hardcoded password. Create a while loop that will ask the user to enter the correct password until it matches the hardcoded password. Once they match alert the user ```THAT’S CORRECT!!!```
